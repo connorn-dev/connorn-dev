@@ -22,7 +22,7 @@
 
 
 
-### Proficient Technologies  
+### <div align="center">Proficient Technologies</div>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -40,7 +40,7 @@
 
 
 
-### Technologies I've Used  
+### <div align="center">Projects Specific Technologies I've Used</div>  
 <div align="center">  
 </div>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
