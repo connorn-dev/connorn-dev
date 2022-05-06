@@ -34,7 +34,7 @@
 
 </td><td valign="top" width="33%">
 
-
+<br/>  
 
 </td><td valign="top" width="33%">
 
@@ -42,19 +42,13 @@
 
 ### <div align="center">Projects Specific Technologies I've Used</div>  
 <div align="center">  
-</div>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-
-
-<br/>  
-
-
-## Connect with me  
-  
+</div>
 
 <br/>  
+
 
 
 ## Github Stats  
@@ -64,21 +58,5 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
