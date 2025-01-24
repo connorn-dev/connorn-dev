@@ -6,13 +6,7 @@
 ### <div align="center">Hello, my name is Connor Narowetz.</div>  
   
 
-- 🏫 Student at the University of Hawaiʻi at Mānoa studying Computer Science  
-  
-
-- ⚒️ Currently building an integration between  [➡️ Notion & Plaid API's ⬅️](https://github.com/connorn-dev/notion-plaid-integration.git)  
-  
-
-- 🌐 You can find my portfolio & personal website at [➡️ connorn.dev ⬅️](https://connorn.dev)  
+🏫 Student at the University of Hawaiʻi at Mānoa studying Computer Science  
   
 
 <br/>  
