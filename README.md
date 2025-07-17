@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello, my name is Connor 👋 </div>  
+### <div align="center">Welcome everyone 👋, I’m exploring and building projects here. Always open to new ideas and or opportunities!  </div>  
   
 <br/>  
 
