@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Welcome everyone 👋, I’m exploring and building projects here. Always open to new ideas and or opportunities!  </div>  
+### <div align="center">Welcome everyone 👋 I’m exploring and building projects, and open to new ideas and or opportunities.</div>  
   
 <br/>  
 
